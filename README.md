@@ -14,3 +14,6 @@ yoururl.com/?to=example@example.com&msg=This%message&timesToSend=100 -->
 to= the email to spam
 msg= your message
 timesToSend= How many emails you want to spam.
+
+
+Responsive bootstrap style by: https://linky.cf
